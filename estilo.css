@@ -1,0 +1,55 @@
+.mdl-textfield__input{
+
+        }
+        .form{
+            display: flex;
+            align-items: right;
+            padding-left: 3%;
+            padding-top: 2%;
+            width: 28%;
+        }
+        table {
+                width: 100%;
+            }
+
+            td,
+            th {
+                border-style: solid;
+                width: 20%;
+                text-align: center;
+                padding: 1px;
+                background-color: floralwhite;
+
+            }
+        #TABELA{
+            display: none;
+            position: absolute;
+            right: 2.5%;
+            top: 0;
+            width: 70%;
+            border-style: solid;
+            background-color: mistyrose;
+
+        }
+        .btt{
+            margin-top: 10px;
+            margin-left: 4%
+        }
+        body {
+            background-color: floralwhite;
+
+        }
+        #nomee{
+            padding-left: 3%;
+        }
+        h6{
+            position: absolute;
+            padding-left: 3%;
+            bottom: 2%;
+        }
+        #nometable , #fontetable{
+            padding-left: 1%
+        }
+        span {
+            padding-left: 3%;
+        }
